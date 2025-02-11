@@ -1,8 +1,8 @@
-# ZoomlExSys - Online Exam Platform
+# Adarsh Quiz World - Online Exam Platform
 
 ## 📝 Project Overview
 
-ZoomlExSys is a comprehensive online exam platform designed to provide a seamless and interactive examination experience. The platform allows users to create accounts, log in, take quizzes, and receive immediate feedback on their performance.
+ Adarsh Quiz World is a comprehensive online exam platform designed to provide a seamless and interactive examination experience. The platform allows users to create accounts, log in, take quizzes, and receive immediate feedback on their performance.
 
 ## ✨ Features
 
@@ -98,12 +98,6 @@ The application is fully responsive and works on:
 - Password complexity requirements
 - Secure local storage of user credentials
 
-
-## 📧 Contact
-
-- [Mohamed Abdelwahab Ali](https://github.com/mohamedAbdelwahabali5)
-- [Omar Mohamed Araby](https://github.com/OmarAraby)
-- [Project Link](https://github.com/mohamedAbdelwahabali5/ZoomlExSys)
 
 ## 🙏 Acknowledgements
 
